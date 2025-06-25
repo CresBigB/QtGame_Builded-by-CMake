@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/QtGame">
+        <file>Images/Acceleration.png</file>
+        <file>Images/background.jpg</file>
+        <file>Images/grass.png</file>
+        <file>Images/Heart.png</file>
+        <file>Images/image.png</file>
+        <file>Images/infinite.png</file>
+        <file>Images/knife.png</file>
+        <file>Images/knife_item.png</file>
+        <file>Images/moving.gif</file>
+        <file>Images/standing.png</file>
+    </qresource>
+</RCC>

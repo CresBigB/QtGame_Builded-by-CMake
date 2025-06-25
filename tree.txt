@@ -1,0 +1,51 @@
+卷 Game 的文件夹 PATH 列表
+卷序列号为 BCCB-E0C8
+E:.
+│  CMakeLists.txt
+│  main.cpp
+│  tree.txt
+│  
+├─bin
+├─Forms
+│      GameWindow.ui
+│      
+├─Headers
+│      Bot.h
+│      Character.h
+│      GameEngin.h
+│      GameStartWindow.h
+│      GameView.h
+│      Grass.h
+│      Headers.h
+│      Item.h
+│      Knife.h
+│      KnifeProjectile.h
+│      Quadtree.h
+│      
+├─Resources
+│  │  resources.qrc
+│  │  
+│  └─Images
+│          Acceleration.png
+│          background.jpg
+│          grass.png
+│          Heart.png
+│          image.png
+│          infinite.png
+│          knife.png
+│          knife_item.png
+│          moving.gif
+│          standing.png
+│          
+└─Sources
+        Bot.cpp
+        Character.cpp
+        GameEngin.cpp
+        GameStartWindow.cpp
+        GameView.cpp
+        Grass.cpp
+        Item.cpp
+        Knife.cpp
+        KnifeProjectile.cpp
+        Quadtree.cpp
+        
